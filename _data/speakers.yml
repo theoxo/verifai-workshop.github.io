@@ -1,48 +1,41 @@
-swang:
-    name: "Sida Wang"
-    url: "http://www.sidaw.xyz/"
-    affiliation: "FAIR"
-    img: "swang.jpg"
-    bio: "Sida I. Wang is a research scientist at Facebook AI Research (FAIR). Sida researches unsupervised translation, including recent work with reasoning about programming languages."
+idilig:
+    name: "Işıl Dillig"
+    url: "https://www.cs.utexas.edu/~isil"
+    affiliation: "UT Austin"
+    img: "idilig.jpg"
+    bio: "Işıl Dillig is a professor at the Computer Science Department of the University of Texas at Austin, where she leads the UToPiA research group. Her primary research area is Programming Languages (PL), with a current emphasis on program synthesis and verification."
 
-slu:
-    name: "Shan Lu"
-    url: "https://people.cs.uchicago.edu/~shanlu/"
-    affiliation: "MSR/UChicago"
-    img: "slu.jpg"
-    bio: "Shan Lu is a professor at the University of Chicago. Her research focuses on software reliability and efficiency, particularly detecting, diagnosing, and fixing functional and performance bugs in large software systems."
+gpoesia:
+    name: "Gabriel Poesia"
+    url: "https://gpoesia.com/"
+    affiliation: "UMichigan"
+    img: "gpoesia.jpg"
+    bio: "Gabriel Poesia is an incoming Assistant Professor at the University of Michigan, a current Research Fellow at Harvard University's Kempner Institute, and a recent graduate of Stanford University. He works on building self-improving AI systems that are capable of formal reasoning and open-ended discovery."
 
-kellis:
-    name: "Kevin Ellis"
-    url: "https://www.cs.cornell.edu/~ellisk/"
-    affiliation: "Cornell"
-    img: "kellis.jpg"
-    bio: "Kevin Ellis is an assistant professor at Cornell University. He researches the intersection of machine learning, program synthesis, and cognitive science. "
+mcmilin:
+    name: "Emily McMilin"
+    url: "https://2dot71mily.github.io/"
+    affiliation: "Meta"
+    img: "mcmilin.jpg"
+    bio: "Emily McMilin is currently a research scientist at Meta working on Language Modeling, Causal Inference, and Applied Reinforcement learning. Her recent work in world models for coding at FAIR builds upon a robust body of prior work in causal inference and biases, many contributions of which came as a single-author independent researcher."
 
-efirst:
-    name: "Emily First"
-    url: "https://people.cs.umass.edu/~efirst/"
-    affiliation: "UCSD"
-    img: "efirst.jpg"
-    bio: "Emily First is a postdoctoral researcher at UC San Diego working with Sorin Lerner. She previously completed her PhD at UMass Amherst under Yuriy Brun. Her research is at the intersection of software engineering, programming languages, and machine learning. She focuses on creating tools to automatically generate proofs of software correctness."
+fmora:
+    name: "Federico Mora Rocha"
+    url: "https://federico.morarocha.ca"
+    affiliation: "AWS/UWaterloo"
+    img: "fmora.png"
+    bio: "Federico Mora Rocha is an Applied Scientist in the Automated Reasoning Group at Amazon Web Services, an incoming Assistant Professor at the University of Waterloo and a Faculty Affiliate at the Vector Institute. His research is centerd around automated reasoning, programming languages and their interactions with neuro-symbolic systems."
 
-nrao:
-    name: "Nikitha Rao"
-    url: "https://raonikitha.github.io/"
-    affiliation: "CMU"
-    img: "nrao.png"
-    bio: "Nikitha Rao is a PhD student at Carnegie Mellon University, advised by Vincent Hellendoorn and Claire Le Goues. She researches the use of large language models in code generation and reasoning."
+epolgreen:
+    name: "Elizabeth Polgreen"
+    url: "https://polgreen.github.io/"
+    affiliation: "University of Edinburgh"
+    img: "epolgreen.jpg"
+    bio: "Elizabeth Polgreen is an assistant professor at the University of Edinburgh. She is interested in formal program synthesis techniques and the use of learning and synthesis to increase the scalability of verification."
 
-csnell:
-    name: "Charlie Snell"
-    url: "https://sea-snell.github.io/"
-    affiliation: "Berkeley"
-    img: "csnell.png"
-    bio: "Charlie Snell is a Ph.D. student at UC Berkeley, advised by Dan Klein and Sergey Levine, whose research focuses on natural language processing, deep reinforcement learning, and the intersection of these fields."
-
-ksen:
-    name: "Koushik Sen"
-    url: "https://people.eecs.berkeley.edu/~ksen/?rnd=1733505749234ksen"
-    affiliation: "Berkeley"
-    img: "ksen.jpg"
-    bio: "Koushik Sen is a professor in the Department of Electrical Engineering and Computer Sciences at the University of California, Berkeley. His research interest lies in Software Engineering, Programming Languages, and Formal methods. He is interested in developing software tools and methodologies that improve programmer productivity and software quality."
+njain:
+    name: "Naman Jain"
+    url: "http://naman-ntc.github.io/"
+    affiliation: "Berkeley/Cursor"
+    img: "njain.jpg"
+    bio: "Naman Jain is a PhD student at UC Berkeley and researcher at Cursor AI. His research, focused on evaluation of and reinforcement learning environments for LLM coding agents, includes prominent benchmarks such as LiveCodeBench and an open-sourced framework that turns any GitHub repository into test environments for coding agents."
