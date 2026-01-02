@@ -28,7 +28,7 @@ In VerifAI-2: The Second Workshop on AI Verification in the Wild we invite paper
 <div class="container" style="margin-top: 20px;margin-bottom: 0px;">
   <div class="row">
     {% for p in site.data.speakers %}
-    {% if forloop.index<=5 %}
+    {% if forloop.index<=3 %}
     {% capture id %}{{ p[0] }}{% endcapture %}
     {% include profile.html p=p %}
     {% endif %}
@@ -37,7 +37,7 @@ In VerifAI-2: The Second Workshop on AI Verification in the Wild we invite paper
   <div class="row">
     {% for p in site.data.speakers %}
     {% capture id %}{{ p[0] }}{% endcapture %}
-    {% if forloop.index>5 and forloop.index<=10%}
+    {% if forloop.index>3 and forloop.index<=6%}
     {% include profile.html p=p %}
     {% endif %}
     {% endfor %}
@@ -45,7 +45,7 @@ In VerifAI-2: The Second Workshop on AI Verification in the Wild we invite paper
   <div class="row">
     {% for p in site.data.speakers %}
     {% capture id %}{{ p[0] }}{% endcapture %}
-    {% if forloop.index>10%}
+    {% if forloop.index>6%}
     {% include profile.html p=p %}
     {% endif %}
     {% endfor %}
@@ -94,7 +94,7 @@ In VerifAI-2: The Second Workshop on AI Verification in the Wild we invite paper
 # Related Venues
 
 <div class="container" style="margin-bottom: 10px;"></div>
-- VerifAI: AI Verification in the Wild @ ICLR 2025 (VerifAI'25)
+- VerifAI: AI Verification in the Wild @ ICLR 2026 (VerifAI'25)
 - [Deep Learning for Code (DL4C)](https://dl4c.github.io/) 
 - [Large Language Models for Code (LLM4Code)](https://llm4code.github.io/) 
 - [Workshop on Mathematical Reasoning and AI (MATH-AI)](https://mathai2024.github.io/) 

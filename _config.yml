@@ -8,7 +8,7 @@
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: "The VerifAI Workshop @ ICLR'25"
+title: "The VerifAI Workshop @ ICLR'26"
 
 # Short description of your site
 description: VerifAI
@@ -61,7 +61,7 @@ footer-link-col: "#404040"
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-author: Organizers of the VerifAI Workshop at ICLR 2025
+author: Organizers of the VerifAI Workshop at ICLR 2026
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.

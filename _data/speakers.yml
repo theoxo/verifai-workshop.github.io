@@ -16,14 +16,14 @@ mcmilin:
     name: "Emily McMilin"
     url: "https://2dot71mily.github.io/"
     affiliation: "Meta"
-    img: "mcmilin.jpg"
+    img: "mcmilin.png"
     bio: "Emily McMilin is currently a research scientist at Meta working on Language Modeling, Causal Inference, and Applied Reinforcement learning. Her recent work in world models for coding at FAIR builds upon a robust body of prior work in causal inference and biases, many contributions of which came as a single-author independent researcher."
 
 fmora:
     name: "Federico Mora Rocha"
     url: "https://federico.morarocha.ca"
     affiliation: "AWS/UWaterloo"
-    img: "fmora.png"
+    img: "fmora.jpg"
     bio: "Federico Mora Rocha is an Applied Scientist in the Automated Reasoning Group at Amazon Web Services, an incoming Assistant Professor at the University of Waterloo and a Faculty Affiliate at the Vector Institute. His research is centerd around automated reasoning, programming languages and their interactions with neuro-symbolic systems."
 
 epolgreen:
@@ -37,5 +37,5 @@ njain:
     name: "Naman Jain"
     url: "http://naman-ntc.github.io/"
     affiliation: "Berkeley/Cursor"
-    img: "njain.jpg"
+    img: "njain.png"
     bio: "Naman Jain is a PhD student at UC Berkeley and researcher at Cursor AI. His research, focused on evaluation of and reinforcement learning environments for LLM coding agents, includes prominent benchmarks such as LiveCodeBench and an open-sourced framework that turns any GitHub repository into test environments for coding agents."
