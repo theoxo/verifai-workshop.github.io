@@ -46,10 +46,3 @@ ksen:
     affiliation: "Berkeley"
     img: "ksen.jpg"
     bio: "Koushik Sen is a professor in the Department of Electrical Engineering and Computer Sciences at the University of California, Berkeley. His research interest lies in Software Engineering, Programming Languages, and Formal methods. He is interested in developing software tools and methodologies that improve programmer productivity and software quality."
-
-xzhang:
-    name: "Xin Zhang"
-    url: "https://xinpl.github.io/"
-    affiliation: "PKU"
-    img: "xzhang.jpg"
-    bio: "Xin Zhang is an assistant professor at Peking University whose research focuses on program analysis and its intersection with machine learning and artificial intelligence, aiming to enhance the interpretability, fairness, and robustness of software systems."

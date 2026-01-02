@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The VerifAI Workshop
-subtitle: "VerifAI: AI Verification in the Wild @ ICLR 2025"
+subtitle: "VerifAI: AI Verification in the Wild @ ICLR 2026"
 use-site-title: true
 ---
 

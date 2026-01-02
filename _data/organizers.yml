@@ -3,11 +3,6 @@ clee:
   url: "https://celine-lee.github.io/"
   affiliation: "Cornell"
   img: "clee.jpg"
-wzhao:
-  name: "Wenting Zhao"
-  url: "https://wenting-zhao.github.io/"
-  affiliation: "Cornell"
-  img: "wzhao.jpg"
 ashah:
   name: "Ameesh Shah"
   url: "https://ameesh-shah.github.io/"
@@ -28,3 +23,8 @@ swelleck:
   url: "https://wellecks.com/"
   affiliation: "CMU"
   img: "swelleck.jpg"
+asolar:
+  name: "Armando Welleck"
+  url: "https://people.csail.mit.edu/asolar/"
+  affiliation: "MIT"
+  img: "asolar.jpg"

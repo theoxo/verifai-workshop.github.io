@@ -1,11 +1,11 @@
 ---
 layout: page
 title: The VerifAI Workshop
-subtitle: "VerifAI: AI Verification in the Wild @ ICLR 2025"
+subtitle: "VerifAI: AI Verification in the Wild @ ICLR 2026"
 use-site-title: true
 ---
 <div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
-  (Singapore, April 27, 2025)
+  (Rio, April 26/27, 2026)
 </div>
 
 
@@ -20,7 +20,7 @@ This workshop explores the intersection of scale-driven generative artificial in
 
 Formal analysis tools such as theorem provers, satisfiability solvers, and execution monitoring have demonstrated success in ensuring properties of interest across a range of tasks in software development and mathematics where precise reasoning is necessary. However, these methods face scaling challenges. Recently, generative AI such as large language models (LLMs) has been explored as a scalable and adaptable option to create solutions in these settings. The effectiveness of AI in these settings increases with more compute and data, but unlike traditional formalisms, they are built around probabilistic methods – not correctness by construction. 
 
-In the VerifAI: AI Verification in the Wild workshop we invite papers and discussions that discuss how to bridge these two fields. See our [call for papers](cfp/index.html).
+In VerifAI-2: The Second Workshop on AI Verification in the Wild we invite papers and discussions that discuss how to bridge these two fields. See our [call for papers](cfp/index.html).
 
 <hr>
 
@@ -64,7 +64,7 @@ In the VerifAI: AI Verification in the Wild workshop we invite papers and discus
   <div class="row" style="margin: -30px;"> -->
   <div class="row">
     {% for p in site.data.organizers %}
-    {% if forloop.index<=4 %}
+    {% if forloop.index<=3 %}
     {% capture id %}{{ p[0] }}{% endcapture %}
     {% include profile.html p=p %}
     {% endif %}
@@ -73,7 +73,7 @@ In the VerifAI: AI Verification in the Wild workshop we invite papers and discus
   <div class="row">
     {% for p in site.data.organizers %}
     {% capture id %}{{ p[0] }}{% endcapture %}
-    {% if forloop.index>4 and forloop.index<=8%}
+    {% if forloop.index>3 and forloop.index<=8%}
     {% include profile.html p=p %}
     {% endif %}
     {% endfor %}
@@ -94,6 +94,7 @@ In the VerifAI: AI Verification in the Wild workshop we invite papers and discus
 # Related Venues
 
 <div class="container" style="margin-bottom: 10px;"></div>
+- VerifAI: AI Verification in the Wild @ ICLR 2025 (VerifAI'25)
 - [Deep Learning for Code (DL4C)](https://dl4c.github.io/) 
 - [Large Language Models for Code (LLM4Code)](https://llm4code.github.io/) 
 - [Workshop on Mathematical Reasoning and AI (MATH-AI)](https://mathai2024.github.io/) 

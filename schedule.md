@@ -1,21 +1,22 @@
 ---
 layout: page
 title: The VerifAI Workshop
-subtitle: "VerifAI: AI Verification in the Wild @ ICLR 2025"
+subtitle: "VerifAI: AI Verification in the Wild @ ICLR 2026"
 use-site-title: true
 ---
 <div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
-  (Singapore, April 27, 2025)
+  (Rio, April 26/27, 2026)
 </div>
 
 
-#### (All times are in Singapore Time)
+#### TBA
+<!-- #### (All times are in Singapore Time) -->
 
-
+<!-- 
 #### Location: Garnet 218-219, Singapore EXPO
 <!-- #### Live video stream: [Link](https://neurips.cc/virtual/2022/workshop/50015) -->
 
-
+<!-- 
 <div class="container">
   <div class="row">
     <table class="table">
@@ -92,4 +93,4 @@ use-site-title: true
         {% endfor %}
     </table>
   </div>
-</div>
+</div> --> 
