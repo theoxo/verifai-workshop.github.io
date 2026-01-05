@@ -1,9 +1,9 @@
-idilig:
-    name: "Işıl Dillig"
-    url: "https://www.cs.utexas.edu/~isil"
-    affiliation: "UT Austin"
-    img: "idilig.jpg"
-    bio: "Işıl Dillig is a professor at the Computer Science Department of the University of Texas at Austin, where she leads the UToPiA research group. Her primary research area is Programming Languages (PL), with a current emphasis on program synthesis and verification."
+# idilig:
+#     name: "Işıl Dillig"
+#     url: "https://www.cs.utexas.edu/~isil"
+#     affiliation: "UT Austin"
+#     img: "idilig.jpg"
+#     bio: "Işıl Dillig is a professor at the Computer Science Department of the University of Texas at Austin, where she leads the UToPiA research group. Her primary research area is Programming Languages (PL), with a current emphasis on program synthesis and verification."
 
 gpoesia:
     name: "Gabriel Poesia"
