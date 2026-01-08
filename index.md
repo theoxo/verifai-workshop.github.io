@@ -20,7 +20,7 @@ This workshop explores the intersection of scale-driven generative artificial in
 
 Formal analysis tools such as theorem provers, satisfiability solvers, and execution monitoring have demonstrated success in ensuring properties of interest across a range of tasks in software development and mathematics where precise reasoning is necessary. However, these methods face scaling challenges. Recently, generative AI such as large language models (LLMs) has been explored as a scalable and adaptable option to create solutions in these settings. The effectiveness of AI in these settings increases with more compute and data, but unlike traditional formalisms, they are built around probabilistic methods – not correctness by construction. 
 
-In VerifAI-2: The Second Workshop on AI Verification in the Wild we invite papers and discussions that discuss how to bridge these two fields. See our [call for papers](cfp/index.html).
+In VerifAI-2: The Second Workshop on AI Verification in the Wild we invite papers and discussions that discuss how to bridge these two fields. See our [call for papers](cfp/index.html). If you are interested in contributing, [nominate yourself as a reviewer](https://docs.google.com/forms/d/e/1FAIpQLSe4xapF9YRNDbyEibOeKCxIMCGcEtyZQKkaI8Ipqa4g29l9CQ/viewform?usp=sf_link).
 
 <hr>
 
