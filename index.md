@@ -13,6 +13,7 @@ use-site-title: true
 <div class="sharethis-inline-share-buttons"></div>
 <meta name="thumbnail" content="./img/iclr-logo.jpg" />
 
+**The submission portal is now open on [OpenReview](https://openreview.net/group?id=ICLR.cc%252F2026%252FWorkshop%252FVerifAI-2).**
 
 # Overview
 This workshop explores the intersection of scale-driven generative artificial intelligence (AI) and the correctness-focused principles of verification. 
@@ -94,7 +95,7 @@ In VerifAI-2: The Second Workshop on AI Verification in the Wild we invite paper
 # Related Venues
 
 <div class="container" style="margin-bottom: 10px;"></div>
-- VerifAI: AI Verification in the Wild @ ICLR 2026 (VerifAI'25)
+- VerifAI: AI Verification in the Wild @ ICLR 2025 (VerifAI'25)
 - [Deep Learning for Code (DL4C)](https://dl4c.github.io/) 
 - [Large Language Models for Code (LLM4Code)](https://llm4code.github.io/) 
 - [Workshop on Mathematical Reasoning and AI (MATH-AI)](https://mathai2024.github.io/) 

@@ -5,7 +5,7 @@ subtitle: "VerifAI: AI Verification in the Wild @ ICLR 2026"
 use-site-title: true
 ---
 <div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
-  (Rio, April 6/27, 2026)
+  (Rio, April 26/27, 2026)
 </div>
 
 
@@ -46,3 +46,4 @@ All submissions must be formatted with LaTeX using the [ICLR paper format](https
 
 All accepted papers will be presented in an in-person poster session, and some will be selected for oral presentation. We also permit papers that have been recently published or are under submission to another venue. Please mark such papers accordingly upon submission. Accepted papers will be displayed on the VerifAI homepage, but are to be considered non-archival.
 
+All submissions must be made through [OpenReview](https://openreview.net/group?id=ICLR.cc%252F2026%252FWorkshop%252FVerifAI-2).
