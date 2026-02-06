@@ -31,7 +31,7 @@ We welcome novel methodologies, analytic contributions, works in progress, negat
 
 <!--{% include dates.md %} <a href="{site.url}/2020/img/KR2ML2020_template.zip">NeurIPS paper format (adapted)</a>. -->
 **Paper submission opens:** January 5, 2026 <br>
-**Deadline for paper submission**: --~~February 5, 2026~~ February 8 (AoE), 2026 <br>
+**Deadline for paper submission**: ~~February 5, 2026~~ February 8 (AoE), 2026 <br>
 **Notification:** March 1, 2026 <br>
 
 ### Submission Requirements
